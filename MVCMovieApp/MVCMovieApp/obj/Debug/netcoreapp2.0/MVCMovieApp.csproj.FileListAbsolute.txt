@@ -1,0 +1,22 @@
+C:\Users\Anonymous\Documents\Visual Studio 2017\Projects\MVCMovieApp\MVCMovieApp\bin\Debug\netcoreapp2.0\MVCMovieApp.deps.json
+C:\Users\Anonymous\Documents\Visual Studio 2017\Projects\MVCMovieApp\MVCMovieApp\bin\Debug\netcoreapp2.0\MVCMovieApp.runtimeconfig.json
+C:\Users\Anonymous\Documents\Visual Studio 2017\Projects\MVCMovieApp\MVCMovieApp\bin\Debug\netcoreapp2.0\MVCMovieApp.runtimeconfig.dev.json
+C:\Users\Anonymous\Documents\Visual Studio 2017\Projects\MVCMovieApp\MVCMovieApp\bin\Debug\netcoreapp2.0\MVCMovieApp.dll
+C:\Users\Anonymous\Documents\Visual Studio 2017\Projects\MVCMovieApp\MVCMovieApp\bin\Debug\netcoreapp2.0\MVCMovieApp.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2017\Projects\MVCMovieApp\MVCMovieApp\obj\Debug\netcoreapp2.0\MVCMovieApp.csprojResolveAssemblyReference.cache
+C:\Users\Anonymous\Documents\Visual Studio 2017\Projects\MVCMovieApp\MVCMovieApp\obj\Debug\netcoreapp2.0\MVCMovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Documents\Visual Studio 2017\Projects\MVCMovieApp\MVCMovieApp\obj\Debug\netcoreapp2.0\MVCMovieApp.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Documents\Visual Studio 2017\Projects\MVCMovieApp\MVCMovieApp\obj\Debug\netcoreapp2.0\MVCMovieApp.AssemblyInfo.cs
+C:\Users\Anonymous\Documents\Visual Studio 2017\Projects\MVCMovieApp\MVCMovieApp\obj\Debug\netcoreapp2.0\MVCMovieApp.dll
+C:\Users\Anonymous\Documents\Visual Studio 2017\Projects\MVCMovieApp\MVCMovieApp\obj\Debug\netcoreapp2.0\MVCMovieApp.pdb
+C:\Users\Anonymous\Desktop\MVCMovieApp\MVCMovieApp\bin\Debug\netcoreapp2.0\MVCMovieApp.deps.json
+C:\Users\Anonymous\Desktop\MVCMovieApp\MVCMovieApp\bin\Debug\netcoreapp2.0\MVCMovieApp.runtimeconfig.json
+C:\Users\Anonymous\Desktop\MVCMovieApp\MVCMovieApp\bin\Debug\netcoreapp2.0\MVCMovieApp.runtimeconfig.dev.json
+C:\Users\Anonymous\Desktop\MVCMovieApp\MVCMovieApp\bin\Debug\netcoreapp2.0\MVCMovieApp.dll
+C:\Users\Anonymous\Desktop\MVCMovieApp\MVCMovieApp\bin\Debug\netcoreapp2.0\MVCMovieApp.pdb
+C:\Users\Anonymous\Desktop\MVCMovieApp\MVCMovieApp\obj\Debug\netcoreapp2.0\MVCMovieApp.csprojResolveAssemblyReference.cache
+C:\Users\Anonymous\Desktop\MVCMovieApp\MVCMovieApp\obj\Debug\netcoreapp2.0\MVCMovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\MVCMovieApp\MVCMovieApp\obj\Debug\netcoreapp2.0\MVCMovieApp.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\MVCMovieApp\MVCMovieApp\obj\Debug\netcoreapp2.0\MVCMovieApp.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\MVCMovieApp\MVCMovieApp\obj\Debug\netcoreapp2.0\MVCMovieApp.dll
+C:\Users\Anonymous\Desktop\MVCMovieApp\MVCMovieApp\obj\Debug\netcoreapp2.0\MVCMovieApp.pdb
